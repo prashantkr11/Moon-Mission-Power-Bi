@@ -33,7 +33,9 @@ Open the Moon Mission Dashboard file associated with this dataset.
 # Data Source
 
 The dataset used for this dashboard is provided as "Data Set Part 1-moonlanding.csv." It contains valuable information about various moon missions and has been processed and transformed for analysis within the dashboard.
-   
+   <img width="1213" alt="Screenshot 2023-09-18 at 1 04 11 AM" src="https://github.com/prashantkr11/Moon-Mission-Power-Bi/assets/144673058/7ede9540-5b08-4546-b773-2bfb40797e53">
+
+<img width="1213" alt="Screenshot 2023-09-18 at 1 04 35 AM" src="https://github.com/prashantkr11/Moon-Mission-Power-Bi/assets/144673058/642cb09d-333a-46ca-b6df-ab3129e55cdb">
 
 
 
